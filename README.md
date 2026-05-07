@@ -21,6 +21,7 @@ Sample datasets (first 200 rows) are included for demonstration purposes due to 
 - Python
 - pandas
 - NumPy
+- Scikit-learn 
 
 ## Project Structure
 - bikeshare.py – Main script containing data processing and analysis logic
